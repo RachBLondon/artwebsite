@@ -1,8 +1,16 @@
 #portfolio img {
-  max-height: 300px;
+  max-height: 240px;
   margin: auto;
+
 }
 
+.subintro-text{
+  font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-style: italic;
+  font-size: 30px;
+  line-height: 30px
+  color: #F7F7F7;
+}
 
 body {
   overflow-x: hidden;
